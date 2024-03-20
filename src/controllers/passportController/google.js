@@ -10,9 +10,9 @@ let GoogleStrategy = passportGoogle.OAuth2Strategy;
  * Valid user account type: local
  */
 
-let GG_APP_ID = "49151554216-rjqq3gv7r966e7b40tuttjrnq5l74cv3.apps.googleusercontent.com";
-let GG_APP_SECRET = "MSQfTxzdPKPa7raiLcrn6_ff";
-let GG_CALLBACK_URL = "https://chat-app-phuoc.herokuapp.com/auth/google/callback";
+let GG_APP_ID = "GG_APP_ID";
+let GG_APP_SECRET = "GG_APP_SECRET";
+let GG_CALLBACK_URL = "GG_CALLBACK_URL";
 
 let ggAppId = GG_APP_ID;
 let ggAppSecret = GG_APP_SECRET;

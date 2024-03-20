@@ -1,7 +1,7 @@
 import nodeMailer from "./../../node_modules/nodemailer";
 
-let MAIL_USER = "pesico098@gmail.com";
-let MAIL_PASSWORD = ")#^%(@%&^@";
+let MAIL_USER = "my-email@email.com";
+let MAIL_PASSWORD = "email-password";
 let MAIL_HOST = "smtp.gmail.com";
 let MAIL_PORT = "587";
 

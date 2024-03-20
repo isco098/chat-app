@@ -10,9 +10,9 @@ let FacebookStrategy = passportFacebook.Strategy;
  * Valid user account type: local
  */
 
-let FB_APP_ID = "413474306727252";
-let FB_APP_SECRET = "2fa531264346731e5816d684dfce548e";
-let FB_CALLBACK_URL = "https://chat-app-phuoc.herokuapp.com/auth/facebook/callback";
+let FB_APP_ID = "FB_APP_ID";
+let FB_APP_SECRET = "FB_APP_SECRET";
+let FB_CALLBACK_URL = "FB_CALLBACK_URL";
 
 let fbAppId = FB_APP_ID;
 let fbAppSecret = FB_APP_SECRET;
